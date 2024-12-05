@@ -1,5 +1,5 @@
 ﻿# Student_Management_System
-Assalamu Alaikum. This is my second project. 
+ Thanks for visiting my github
 # STM_project
 # STM_project
 # Student_management_system
